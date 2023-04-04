@@ -1,0 +1,4 @@
+paragrah color -----------------> #a0a5a8
+font family --------------------> Montserrat
+background-color for page -------------> #ecf0f3
+ background-color for buttons ----------------------> #4b70e2
